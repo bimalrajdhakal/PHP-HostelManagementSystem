@@ -1,0 +1,2 @@
+# PHP-HostelManagementSystem
+Project was aimed to provide fully operational in institute or universities for managing hostels activities and maintaining records of student allotted corresponding hostels. This system provides all status for every item. It gives the information like how many work in progress, student residing under corresponding hostels, Mess bills, Complaints, payment history of students, Visitors information, Hostel vacate information and many more. 
