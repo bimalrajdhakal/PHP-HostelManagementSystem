@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.footleft{background:url(footerleft.jpg) no-repeat; width:19px; height:63px;}
+.footright{background:url(footerright.jpg) no-repeat; width:20px; height:63px;}
+.footerbg{background:url(none); height:63px;}
+.footer{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:#c2001b; line-height:18px; text-align:center;}
+.footer a{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:#c2001b; text-align:center; text-decoration:none;}
+.footer a:hover{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:#E25E03; text-align:center; text-decoration:underline;}
+
